@@ -26,6 +26,7 @@ export class GifsService {
   }
 
   searchTag(tag: string): void {
+    tag = tag.trim();
     if (tag.length === 0) return;
     this.organizeHistory(tag);
     const params = new HttpParams()
