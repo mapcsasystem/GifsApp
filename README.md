@@ -1,27 +1,50 @@
-# GifsApp
+# Buscador de imagenes gif
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+### Descripción:
 
-## Development server
+El Buscador de GIFs en Angular es una página web interactiva que utiliza el popular framework Angular para permitir a los usuarios buscar y descubrir imágenes animadas GIF de manera rápida y sencilla. La aplicación utiliza la API de un servicio de terceros [Giphy API](https://developers.giphy.com/docs/clips/) para obtener una amplia selección de GIFs actualizados en tiempo real.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### Tecnologías utilizadas
 
-## Code scaffolding
+#### Angular [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#### Boostrap [Boostrap](https://github.com/twbs) version 5.3.1.
 
-## Build
+#### Animate.css [Animate.css](https://animate.style/#usage) version 4.1.1.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+#### NodeJS [Node](https://nodejs.org/dist/v18.16.0/) version 18.16.0.
 
-## Running unit tests
+#### NPM [NPM](https://github.com/npm) version 9.8.1.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+#### Git [GIT](https://github.com/npm) version 2.41.0.
 
-## Running end-to-end tests
+#### GitHub [GitHub](https://github.com/)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+#### GitHub-Pages [GitHub-Pages](https://pages.github.com/)
 
-## Further help
+## Requerimientos para correr la app
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+#### Instalar NodeJS para el Sistema Operativo a utilizar
+
+##### "window abrir cmd como administrador"
+
+```
+npm i -g @angular/cli
+```
+
+##### "linux ó MacOs"
+
+```
+sudo npm i -g @angular/cli
+```
+
+### Comandos a utilizar
+
+```
+git clone https://github.com/mapcsasystem/GifsApp.git
+cd GifsApp
+npm install
+npm start
+```
+
+El diseño web no es repositive
