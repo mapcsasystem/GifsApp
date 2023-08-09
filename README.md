@@ -16,7 +16,7 @@ El Buscador de GIFs en Angular es una página web interactiva que utiliza el pop
 
 #### NPM [NPM](https://github.com/npm) version 9.8.1.
 
-#### Git [GIT](https://github.com/npm) version 2.41.0.
+#### Git [GIT](https://git-scm.com/) version 2.41.0.
 
 #### GitHub [GitHub](https://github.com/)
 
@@ -47,6 +47,6 @@ npm install
 npm start
 ```
 
-#### Pagina web de la app [Web](https://mapcsasystem.github.io/GifsApp/)
+#### Pagina web de la app [Web Gifs App](https://mapcsasystem.github.io/GifsApp/)
 
 El diseño web no es repositive
