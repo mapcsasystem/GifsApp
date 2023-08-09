@@ -10,7 +10,7 @@ El Buscador de GIFs en Angular es una página web interactiva que utiliza el pop
 
 #### Boostrap [Boostrap](https://github.com/twbs) version 5.3.1.
 
-#### Animate.css [Animate.css](https://animate.style/#usage) version 4.1.1.
+#### Animate.css [Animate.css](https://animate.style/#usage) version 4.1.
 
 #### NodeJS [Node](https://nodejs.org/dist/v18.16.0/) version 18.16.0.
 
@@ -46,5 +46,7 @@ cd GifsApp
 npm install
 npm start
 ```
+
+#### Pagina web de la app [Web](https://mapcsasystem.github.io/GifsApp/)
 
 El diseño web no es repositive
